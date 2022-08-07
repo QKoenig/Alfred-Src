@@ -1,8 +1,8 @@
 #include <Servo.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "CenturyLink3302";
-const char* password = "rmps9qx4nuq2rk"; 
+const char* ssid     = "NETWORK";
+const char* password = "PASSWORD"; 
 
 WiFiServer server(80);
 

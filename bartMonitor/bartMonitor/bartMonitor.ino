@@ -6,8 +6,8 @@
 #define dhtCOLD_dpin 0
 #define dhtHOT_dpin 2
 
-const char* ssid     = "CenturyLink3302";
-const char* password = "rmps9qx4nuq2rk"; 
+const char* ssid     = "NETWORK";
+const char* password = "PASSWORD"; 
 
 WiFiServer server(80);
 
